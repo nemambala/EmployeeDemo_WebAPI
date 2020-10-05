@@ -1,0 +1,305 @@
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\EmployeeWebApi.dll.config
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\EmployeeWebApi.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\EmployeeWebApi.pdb
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\csc.exe
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\csc.exe.config
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\csc.rsp
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\csi.exe
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\csi.exe.config
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\csi.rsp
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Console.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\vbc.exe
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\vbc.exe.config
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\vbc.rsp
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Helpers.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Http.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Mvc.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Razor.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Webpages.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Razor.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Webpages.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Helpers.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Mvc.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Http.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\EmployeeWebApi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\EmployeeWebApi.csproj.CopyComplete
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\EmployeeWebApi.dll
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\EmployeeWebApi.pdb
+C:\Users\hp\source\repos\EmployeeWebApi\EmployeeWebApi\obj\Debug\EmployeeWebApi.csprojAssemblyReference.cache
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\EmployeeWebApi.dll.config
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\EmployeeWebApi.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\EmployeeWebApi.pdb
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\csc.exe
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\csc.exe.config
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\csc.rsp
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\csi.exe
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\csi.exe.config
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\csi.rsp
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.AppContext.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Console.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\vbc.exe
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\vbc.exe.config
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\vbc.rsp
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\Newtonsoft.Json.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Net.Http.Formatting.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Helpers.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Http.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Http.WebHost.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Mvc.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Razor.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Webpages.Deployment.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Webpages.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Webpages.Razor.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Razor.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Webpages.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Webpages.Deployment.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Webpages.Razor.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Helpers.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Mvc.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\Newtonsoft.Json.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Net.Http.Formatting.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Http.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\System.Web.Http.WebHost.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\obj\Debug\EmployeeWebApi.csproj.CopyComplete
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\obj\Debug\EmployeeWebApi.dll
+C:\Test APP\EmployeeWebApi-master\EmployeeWebApi-master\EmployeeWebApi\obj\Debug\EmployeeWebApi.pdb
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\EmployeeWebApi.dll.config
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\EmployeeWebApi.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\EmployeeWebApi.pdb
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csc.exe
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csc.exe.config
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csc.rsp
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csi.exe
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csi.exe.config
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csi.rsp
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.AppContext.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Console.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.Compression.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Claims.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.ValueTuple.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\vbc.exe
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\vbc.exe.config
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\vbc.rsp
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\Newtonsoft.Json.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Net.Http.Formatting.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Helpers.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.WebHost.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Mvc.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Razor.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Razor.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Razor.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Razor.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Helpers.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Mvc.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\Newtonsoft.Json.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Net.Http.Formatting.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.WebHost.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebApi.dll
+D:\WorkPlace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebApi.pdb
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\EmployeeWebApi.dll.config
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\EmployeeWebApi.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\EmployeeWebApi.pdb
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csc.exe
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csc.exe.config
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csc.rsp
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csi.exe
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csi.exe.config
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\csi.rsp
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.AppContext.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Console.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.Compression.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Claims.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.ValueTuple.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\vbc.exe
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\vbc.exe.config
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\vbc.rsp
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\Newtonsoft.Json.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Net.Http.Formatting.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Helpers.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.WebHost.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Mvc.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Razor.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Deployment.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Razor.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Razor.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Deployment.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Webpages.Razor.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Helpers.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Mvc.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\Newtonsoft.Json.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Net.Http.Formatting.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\System.Web.Http.WebHost.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebAPI.csprojAssemblyReference.cache
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebAPI.csproj.CoreCompileInputs.cache
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebAPI.csproj.CopyComplete
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebApi.dll
+D:\MyWorkplace\EmployeeWebAPI\EmployeeWebApi\obj\Debug\EmployeeWebApi.pdb
